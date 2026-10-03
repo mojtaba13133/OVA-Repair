@@ -12,7 +12,7 @@ rem       machine configuration file (.vmx) instead."
 rem    * "The OVF package is invalid and cannot be deployed."
 rem    * 7-Zip / tar  "Unexpected end of archive"  on OVA files.
 rem
-rem  Repo    : https://github.com/<your-user>/ova-repair
+rem  Repo    : https://github.com/mojtaba13133/ova-repair
 rem  License : MIT
 rem =====================================================================
 
